@@ -1,4 +1,4 @@
-package Behavioral_Patterns.Strategy;
+package patterns.behavioral.strategy;
 
 public class BikeRoute implements Route{
     @Override
