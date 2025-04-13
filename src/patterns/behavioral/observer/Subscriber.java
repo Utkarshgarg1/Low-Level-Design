@@ -1,5 +1,5 @@
 package patterns.behavioral.observer;
 
 public interface Subscriber {
-    void update();
+    void update(String event, String data);
 }
